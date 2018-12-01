@@ -3,3 +3,5 @@ Tutoriel de base (pour débuter) https://neocities.org/tutorial/html/
 Documentation W3School (très complète et intuitive) https://www.w3schools.com/html/
 Documentation Mozilla (là c'est des pro qui te font une doc donc tu écoute) https://developer.mozilla.org/fr/docs/Web/HTML
 Site de Caeles (C'est un ami, il accepte qu'on s'inspire de son code) view-source:https://caeles.neocities.org/
+
+N'oubliez pas de mettre toutes vos sources dans sources.html comme ceci : <li>VOTRE LIEN</li>
